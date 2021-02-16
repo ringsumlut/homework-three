@@ -1,0 +1,13 @@
+.hero {
+    width: 1280px;
+    height: 500px;
+    margin: 0 auto;
+    background-image: linear-gradient(to right, $overlay-black, $overlay-black),
+     url(../images/hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    padding: 10px;
+
+
+}
